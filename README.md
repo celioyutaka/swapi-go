@@ -12,9 +12,6 @@ StarWarsAPI - Rest API for Star Wars
 - List By Name
 - Check and count in how many films this planet appeared (using swapi.dev)
 
-### TO DO
-- Database in MongoDB
-
 ## How to use
 ### Config
 To configure server, server port, database connection, etc
