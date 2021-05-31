@@ -1,0 +1,22 @@
+{
+    "SERVER_PORT": "8000",
+
+    "SWAPI_URL": "https://swapi.dev/api/",
+
+    "DATABASE": "mongodb",
+
+    "MYSQL_HOST": "localhost",
+    "MYSQL_USER": "user",
+    "MYSQL_PASSWORD": "password",
+    "MYSQL_DATABASE": "swapi",
+    "MYSQL_PORT": "3306",
+
+	"MONGODB_HOST":"localhost",
+	"MONGODB_USER":"",
+	"MONGODB_PASSWORD":"",
+	"MONGODB_DATABASE":"swapi",
+	"MONGODB_PORT":"27017",
+    "MONGODB_CONNECTION":"mongodb://127.0.0.1:27017/?readPreference=primary&appname=SWAPI&ssl=false&connect=direct",
+
+    "TEST_YODA": "Tests you should do"
+}
